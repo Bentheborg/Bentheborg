@@ -8,7 +8,5 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=Bentheborg&color=blueviolet)
 ![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=bentheborg&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
-
 ![Bentheborg GitHub stats](https://github-readme-stats.vercel.app/api?username=Bentheborg&show_icons=true&theme=github_dark&count_private=true)
