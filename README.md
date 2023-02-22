@@ -12,4 +12,4 @@
 
 ![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=bentheborg&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
-![](https://komarev.com/ghpvc/?username=Bentheborg&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Bentheborg&color=blue)
