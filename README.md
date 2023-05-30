@@ -10,6 +10,10 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
 ## Stats
 
-![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=bentheborg&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=bentheborg&theme=transparent)
+
+![Bentheborg's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Bentheborg&layout=donut&theme=transparent)
+
+![Bentheborg's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Bentheborg&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=Bentheborg&color=blue)
