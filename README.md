@@ -8,6 +8,9 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
+## Status
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422444198835257363?theme=dark&bg=0d1117&animated=true&idleMessage=divent%20devin&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/422444198835257363)
+
 ## Stats
 
 ![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=bentheborg&theme=transparent)
