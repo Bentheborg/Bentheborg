@@ -20,7 +20,7 @@
 
 ![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=bentheborg&theme=transparent&hide_border=true)
 
-![Bentheborg's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Bentheborg&layout=donut&theme=transparent&hide_border=true)
+![Bentheborg's GitHub Most Used](https://github-readme-stats-bentheborgs-projects.vercel.app/api/top-langs/?username=Bentheborg&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12)
 
 ![Bentheborg's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Bentheborg&theme=transparent&v=2&hide_border=true)
 
