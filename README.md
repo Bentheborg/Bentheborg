@@ -20,7 +20,7 @@
 
 ## Stats
 
-![Bentheborg's GitHub commits](https://github-readme-streak-stats-clwlmoykg-bentheborgs-projects.vercel.app/?user=bentheborg&theme=transparent&hide_border=true)
+![Bentheborg's GitHub commits](https://github-readme-streak-stats-bentheborgs-projects.vercel.app//?user=bentheborg&theme=transparent&hide_border=true)
 
 ![Bentheborg's GitHub Most Used](https://github-readme-stats-bentheborgs-projects.vercel.app/api/top-langs/?username=Bentheborg&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12)
 
