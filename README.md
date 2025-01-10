@@ -11,10 +11,10 @@
 
 <img width="20" src="https://img.icons8.com/color/512/fivem.png" /> Fivem
 
-<img width="20" src="https://github.com/Bentheborg/Bentheborg/assets/90636511/dc8ac32d-30c4-4804-a4d1-03b77c43c222" /> Assembly Language
+<!-- This was a joke <img width="20" src="https://github.com/Bentheborg/Bentheborg/assets/90636511/dc8ac32d-30c4-4804-a4d1-03b77c43c222" /> Assembly Language
 
 <img width="20" src="https://github.com/Bentheborg/Bentheborg/assets/90636511/a41d9660-0c04-4c09-b8a7-e1ad2b0e0303" /> Machine Code
-
+-->
 ## Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422444198835257363?theme=transparent&bg=0d1117&animated=true&idleMessage=divent%20devin&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/422444198835257363)
 
