@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/Fivem-FF7139.svg?style=for-the-badge&amp;logo=fivem&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
 <img src="https://img.shields.io/badge/React-0078d7.svg?style=for-the-badge&amp;logo=react&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&amp;logo=xampp&amp;logoColor=white">
 </p>
 
 <p><strong>Development Tools</strong>:</p>
@@ -28,7 +26,9 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-8D7ACF.svg?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&amp;logo=xampp&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Digital%20Ocean%20-0078d7.svg?style=for-the-badge&amp;logo=digitalocean&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=black">
 <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white">
