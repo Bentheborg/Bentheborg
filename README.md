@@ -18,12 +18,13 @@
 ## Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422444198835257363?theme=transparent&bg=0d1117&animated=true&idleMessage=divent%20devin&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/422444198835257363)
 
-## Stats
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Stats </b></h2>
+<br>
 
-![Bentheborg's GitHub commits](https://github-readme-streak-stats-bentheborgs-projects.vercel.app//?user=bentheborg&theme=transparent&hide_border=true)
-
-![Bentheborg's GitHub Most Used](https://github-readme-stats-bentheborgs-projects.vercel.app/api/top-langs/?username=Bentheborg&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12)
-
-![Bentheborg's Language Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Bentheborg&theme=transparent&v=2&hide_border=true&custom_title=Language%20Time:&hide=other)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bentheborg&theme=transparent&v=2&langs_count=12&layout=compact&hide_border=true&custom_title=Language%20Time:&hide=other" alt="Bentheborg's Language Activity">
+  <img src="https://github-readme-stats-bentheborgs-projects.vercel.app/api/top-langs/?username=Bentheborg&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&custom_title=Most%20Used%20Languages:" alt="Bentheborg's GitHub Most Used">
+  <img src="https://github-readme-streak-stats-bentheborgs-projects.vercel.app//?user=bentheborg&theme=transparent&hide_border=true" alt="Bentheborg's GitHub commits">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Bentheborg&color=blue)
