@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bentheborg&amp;theme=transparent&amp;v=2&amp;langs_count=12&amp;layout=compact&amp;hide_border=true&amp;custom_title=Language%20Time:&amp;hide=other" alt="Bentheborg's Language Activity">
-  <img src="https://github-readme-stats-bentheborgs-projects.vercel.app/api/top-langs/?username=Bentheborg&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=12&amp;custom_title=Most%20Used%20Languages:" alt="Bentheborg's GitHub Most Used">
+  <img src="https://github-readme-stats-bentheborgs-projects.vercel.app/api/top-langs/?username=Bentheborg&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&custom_title=Most%20Used%20Languages" alt="Bentheborg's GitHub Most Used">
   <img src="https://github-readme-streak-stats-bentheborgs-projects.vercel.app//?user=bentheborg&amp;theme=transparent&amp;hide_border=true" alt="Bentheborg's GitHub commits">
   <br>
   <img src="https://komarev.com/ghpvc/?style=for-the-badge&amp;username=Bentheborg&amp;color=blue" alt="Bentheborg's Profile Views">
