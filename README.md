@@ -16,7 +16,8 @@
 <p><strong>Languages</strong>:</p>
 <p>
   <img src="https://img.shields.io/badge/Lua-0078d7.svg?style=for-the-badge&amp;logo=lua&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&amp;logo=sharp&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-0078d7.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/FiveM-FF7139.svg?style=for-the-badge&amp;logo=fivem&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
   <img src="https://img.shields.io/badge/React-0078d7.svg?style=for-the-badge&amp;logo=react&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&amp;logo=opengl&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black">
   <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white">
