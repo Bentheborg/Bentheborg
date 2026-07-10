@@ -1,11 +1,5 @@
-<h1 align="center">Hey there, I’m <b>Benjamin</b> 👋</h1>
-
 <p align="center">
-  <i>
-    A passionate Computer Science student and developer who loves turning ideas into interactive, performant code. <br>
-    Currently pursuing a BSc in <b>Computer Science with Games Development</b> — where logic meets creativity. <br>
-    I enjoy building game systems, experimenting with backend mechanics, and refining the finer details that make projects feel alive.
-  </i>
+  A CompSci student and developer. Currently pursuing a BSc in <b>Computer Science</b>, I enjoy building game & backend systems.
 </p>
 
 ---
@@ -63,11 +57,27 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2>Work</h2>
 
-<p align="center">
-  🎮 Game systems tinkerer, full-stack explorer, and general lover of clean architecture.<br>
-  🧠 I’m always learning something new — whether it’s optimizing a FiveM resource or designing scalable backends.<br>
-  💡 My focus is on creating software that’s efficient, modular, and genuinely fun to use.<br>
-  🌐 When I’m not coding, I’m probably experimenting with server infrastructure or improving existing projects.<br>
-</p>
+<table>
+  <tr>
+    <td>&gt; BW a FiveM game Server based upon vRP framework</td>
+    <td>2021 - 2024</td>
+  </tr>
+  <tr>
+    <td>&gt; SNT a FiveM deathmatch based Server</td>
+    <td>2025 - 2026</td>
+  </tr>
+  <tr>
+    <td>&gt; <a href="https://nodemods.tebex.io/category/3059403">Event-Guard</a> a FiveM event protection system</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>&gt; <a href="https://forum.cfx.re/t/free-throwable-items-item-throwable-system-for-your-server">Throwable Items</a> FiveM item throwing system for servers to use</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>&gt; Ls-Customs a new take on vehicle customisation within FiveM</td>
+    <td>Present</td>
+  </tr>
+</table>
