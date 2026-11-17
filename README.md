@@ -77,7 +77,7 @@
     <td>2026</td>
   </tr>
   <tr>
-    <td>&gt; Ls-Customs a new take on vehicle customisation within FiveM</td>
-    <td>Present</td>
+    <td>&gt; <a href="https://forum.cfx.re/t/ls-customs-advanced-vehicle-customisation-tuning-nitro-security-esx-qb-qbox-ox-vrp">Ls-Customs</a> a new take on vehicle customisation within FiveM</td>
+    <td>2026</td>
   </tr>
 </table>
